@@ -1,3 +1,4 @@
 # AME-Grape-Disease
 Classification of Grape Plant Diseases Using Adaptive Minimal Ensemble
 This project is inspired from  https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2022.868926/full.
+The Adaptive Minimal Ensemble (AME) model shows very superior performance in the process of classifying grape plant diseases, both on the Augmented and Original datasets. On the Augmented dataset, AME managed to achieve the highest test accuracy of 0.9935, while on the Original dataset, this model recorded a very good test accuracy of 0.9832. This achievement indicates that AME with a total of around 10 million parameters, is not only able to compete with other models that have more parameters. Such as EfficientNet B7 which has a total of 66 million parameters, but is also able to consistently outperform them. This proves the efficiency and effectiveness of the minimal ensemble approach used by AME.
